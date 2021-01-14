@@ -35,6 +35,8 @@ Remember,
 ## Task 2
 Add the studio "20th Century Fox" with the following movies:
 
+  |             |
+  -------------------------------
   | Avatar      | Genre: Action |
   | Deadpool    | Genre: Action |
   | Apollo 13   | Genre: Drama  |

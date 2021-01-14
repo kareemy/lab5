@@ -8,14 +8,15 @@ You are starting a new movie streaming service. You must ink a contract with two
 Complete the following tasks:
 
 Development tip: Don't forget your `using` directives.
-Development tip: Delete the database and then create it fresh each time by placing `db.Database.EnsureDeleted();' right before `db.Database.EnsureCreated();`.
+
+Development tip: Delete the database and then create it fresh each time by placing `db.Database.EnsureDeleted();` right before `db.Database.EnsureCreated();`.
 ```
 db.Database.EnsureDeleted();
 db.Database.EnsureCreated();
 ```
 
 ## Task 0: Prep your project
-Create a new EF Core app:
+Clone this repository and create a new EF Core app within Visual Studio Code:
 
 ```
 dotnet new console
@@ -30,11 +31,11 @@ Implement the following Entity Relationship Diagram (ERD) in a new EF Core app. 
   3. Add the NAVIGATION PROPERTIES specific to EF Core that are not included on the ERD.
   
 ## Task 2
-Add the studio "20th Century Fox" with the following movies -
-  a. Avatar Genre: Action
-  b. Deadpool Genre: Action
-  c. Apollo 13  Genre: Drama
-  d. The Martian  Genre: Sci-Fi
+Add the studio "20th Century Fox" with the following movies:
+  1. Avatar Genre: Action
+  2. Deadpool Genre: Action
+  3. Apollo 13  Genre: Drama
+  4. The Martian  Genre: Sci-Fi
  
 ## Task 3
 Add the studio "Universal Pictures" with no movies.

@@ -24,7 +24,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 dotnet add package Microsoft.EntityFrameworkCore.Design
 ```
 
-## Task 1: 
+## Task 1
 Implement the following Entity Relationship Diagram (ERD) in a new EF Core app. 
 ![Image of ERD](https://i.imgur.com/LdbMBC7.png)
 Remember,
@@ -34,10 +34,12 @@ Remember,
   
 ## Task 2
 Add the studio "20th Century Fox" with the following movies:
-  1. Avatar       Genre: Action
-  2. Deadpool     Genre: Action
-  3. Apollo 13    Genre: Drama
-  4. The Martian  Genre: Sci-Fi
+  -------------------------------
+  | Avatar      | Genre: Action |
+  | Deadpool    | Genre: Action |
+  | Apollo 13   | Genre: Drama  |
+  | The Martian | Genre: Sci-Fi |
+  -------------------------------
  
 ## Task 3
 Add the studio "Universal Pictures" with no movies.

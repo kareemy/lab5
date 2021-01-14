@@ -32,9 +32,9 @@ Implement the following Entity Relationship Diagram (ERD) in a new EF Core app. 
   
 ## Task 2
 Add the studio "20th Century Fox" with the following movies:
-  1. Avatar Genre: Action
-  2. Deadpool Genre: Action
-  3. Apollo 13  Genre: Drama
+  1. Avatar       Genre: Action
+  2. Deadpool     Genre: Action
+  3. Apollo 13    Genre: Drama
   4. The Martian  Genre: Sci-Fi
  
 ## Task 3

@@ -26,7 +26,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 
 ## Task 1: 
 Implement the following Entity Relationship Diagram (ERD) in a new EF Core app. 
-![Image of ERD](https://imgur.com/a/JODb5YU)
+![Image of ERD](https://i.imgur.com/LdbMBC7.png)
 Remember,
   1. Place your entity classes and dbContext class in a `Models/` folder.
   2. Add two `DBSet<>` properties to the dbContext class - one for each entity class.

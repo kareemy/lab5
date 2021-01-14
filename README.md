@@ -50,3 +50,21 @@ Remove the movie Deadpool
 
 ## Task 6
 List all studios and their movies.
+
+## Submit your assignment
+1. Save your program and run it. At the terminal prompt, type `dotnet run`.
+2. Edit `README.md` and put your name at the top.
+3. Push your changes to GitHub:
+    - Click the source control icon in VS Code
+    - Type in a commit message
+    - Click the checkbox icon to commit. (Click yes on the message box to stage your commit)
+    - Click the 3 dots icon (...) for more actions and click Push.
+4. Or you can push your changes to GitHub using the Terminal:
+    ```
+    git add -A
+    git commit -m "Ready for grading"
+    git push
+    git status
+    ```
+4. Verify that your changes are on GitHub.
+6. Congratulations! Your lab 2 assignment is complete. 
